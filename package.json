@@ -29,7 +29,7 @@
     "lodash": "^4.17.21",
     "pg": "^8.7.3",
     "rate-limit-redis": "^3.0.1",
-    "redis": "^4.2.0",
+    "redis": "^4.5.1",
     "sync-mysql": "^3.0.1"
   },
   "devDependencies": {
