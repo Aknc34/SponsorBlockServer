@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.18.3
 RUN apk add postgresql-client
 RUN apk add restic --repository http://dl-cdn.alpinelinux.org/alpine/latest-stable/community/
 
